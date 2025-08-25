@@ -7,8 +7,8 @@ npm i
 stellar contract build
 stellar contract deploy <...>
 # remember the contract id
-# it's deployed as CDEEQMPBYSPYSSA4YNMDQFTNNLRDUKWUPOCOZSCY6URBXAL5UI7AWVDA today
-npx tsx main.ts CDEEQMPBYSPYSSA4YNMDQFTNNLRDUKWUPOCOZSCY6URBXAL5UI7AWVDA
+# it's deployed as CBMWOANWBHW5BYJ6GNACCMK2CQVTE6LUAP3XGIRIQK3NXWVOZLHXDSM3 today
+npx tsx main.ts CBMWOANWBHW5BYJ6GNACCMK2CQVTE6LUAP3XGIRIQK3NXWVOZLHXDSM3
 cat generated.ts
 
 stellar contract invoke <...> -- emit
